@@ -2,9 +2,10 @@
   "name": "notetaker",
   "version": "1.0.0",
   "description": "An application to write and saved notes.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/krosario314/noteTaker#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "install": "^0.13.0"
+    "install": "^0.13.0",
+    "server": "^1.0.37"
   }
 }
