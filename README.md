@@ -15,4 +15,5 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 #
 ## Resources
 * [Github repo](https://github.com/krosario314/noteTaker)
-* [Heroku]()
+* [Heroku](https://git.heroku.com/tranquil-fjord-21203.git
+)
