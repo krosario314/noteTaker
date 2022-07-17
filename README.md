@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker
 ![](./public/assets/img/Screen%20Shot%202022-07-16%20at%2010.50.38%20PM.png)
 ## Description
 ```
