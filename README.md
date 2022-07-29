@@ -1,5 +1,7 @@
 # Note Taker
 ![](./public/assets/img/Screen%20Shot%202022-07-16%20at%2010.50.38%20PM.png)
+#
+![](./public/assets/img/Screen%20Shot%202022-07-29%20at%206.21.07%20PM.png)
 ## Description
 ```
 AS A small business owner
